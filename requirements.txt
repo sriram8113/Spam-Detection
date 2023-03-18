@@ -122,8 +122,6 @@ platformdirs==2.5.1
 plotly==5.13.0
 prometheus-client==0.13.1
 prompt-toolkit==3.0.28
-proto-plus==1.22.2
-protobuf==3.20.3
 pure-eval==0.2.2
 pyamg==4.2.3
 pyarrow==11.0.0
@@ -145,10 +143,6 @@ python-slugify==8.0.0
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
 pyviz-comms==2.2.1
-pywin32==301
-pywinpty==2.0.10
-PyYAML==6.0
-pyzmq==25.0.0
 qtconsole==5.2.2
 QtPy==2.0.1
 regex==2022.10.31
