@@ -13,7 +13,7 @@ tfidf = pickle.load(open('vectorizertfidf1.pkl', 'rb'))
 model = pickle.load(open('modelmnb.pkl', 'rb'))
 
 st.title("Spam Classifier")
-input_text = st.text_input("Enter the text to be classified")
+input_text = st.text_area("Enter the text to be classified")
 
 if st.button("Predict"):
 
